@@ -1,0 +1,1 @@
+export type PaymentMethod = 'Stripe' | 'Braintree' | 'PayPal';
